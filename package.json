@@ -1,5 +1,5 @@
 {
-  "name": "reddit-firebase-sample",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,5 +14,21 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {
+    "prettier": "1.10.2",
+    "prettier-eslint-cli": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capelito-tv-show/portofolio.git"
+  },
+  "author": "masaki-sugano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/capelito-tv-show/portofolio/issues"
+  },
+  "homepage": "https://github.com/capelito-tv-show/portofolio#readme"
 }
